@@ -11,7 +11,7 @@ Contents
 .. toctree::
 
    introduction
-   |Linux基础知识| linux/index
+   linux/index
    variables
    parameters
    arrays
