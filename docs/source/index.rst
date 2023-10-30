@@ -4,6 +4,7 @@ Shell实践手册
 .. note::
 
    从实践开始学shell编程
+   blog: coding3min.com
 
 Contents
 --------
