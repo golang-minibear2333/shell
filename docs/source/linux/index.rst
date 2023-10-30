@@ -10,11 +10,11 @@ Linux基础知识
 
    introduction
    introduction-vagrant
+   directory-action
+   disk
    yum-apt
    remote-login
-   directory-action
-   permissions
-   disk
+   user
    vim
 
    
