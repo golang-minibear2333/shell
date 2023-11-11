@@ -13,14 +13,9 @@ Contents
 
    introduction
    linux/index
-   variables
-   parameters
-   arrays
-   operators
-   echo
-   printf
-   test
-   flow-control
-   function
-   input-output-redirection 
-   files-include
+   01.linux-link
+   02.process
+   03.systemd
+   04.file
+   
+   
