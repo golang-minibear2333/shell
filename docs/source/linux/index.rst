@@ -10,7 +10,7 @@ Linux基础知识
 
    introduction
    introduction-vagrant
-   directoryddddd
+   directory-action
    disk
    yum-apt
    remote-login
