@@ -15,5 +15,5 @@ sphinx:
 
 # Build all formats
 formats:
-  - pdf
   - epub
+  - htmlzip
